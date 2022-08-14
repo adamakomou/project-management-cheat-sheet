@@ -49,10 +49,10 @@ to promote generally recognized good practices in project management.
 PMBOK guide describes 10 **Project Management Knowledge Areas**:
   - Integration - processes and activities needed to coordinate other processes and activities whithin PM process groups
   - Scope - processes required to ensure that the project includes all the work required, 
-  and only the work requred, the complete the project
+  and only the work requred, to complete the project
   - Time - processes required to accomplish timely completion of the project
   - Cost - processes involved in planning, budgeting and controlling costs so that the project can be completed 
-  within bidget
+  within budget
   - Quality - processes that determine quality policies so that the project will satisfy the needs for which 
   it was undertaken
   - HR - processes that organize and manage the project team
@@ -81,20 +81,20 @@ use organizational resources to meet project objectives.
 
 **Project Management Plan** should include:
   - Scope
-    - what the project does accomplish and does not accomplish
-    - Who approves this
+    - what the project does accomplish and does not accomplish?
+    - Who approves this?
     - Once approved, can it be changed?
   - Schedule
-    - Are there guidelines
-    - What software to be used
-    - How often to be maintained
-    - Who makes changes to it
+    - Are there guidelines?
+    - What software to be used?
+    - How often to be maintained?
+    - Who makes changes to it?
   - Cost
-    - Are there guidelines
-    - Who approves the budget
-    - What to do if you are under or over budget
-    - Can you ask for more money and who do you ask
-    - What type of budget reporting will you do
+    - Are there guidelines?
+    - Who approves the budget?
+    - What to do if you are under or over budget?
+    - Can you ask for more money and who do you ask?
+    - What type of budget reporting will you do?
     
 **WBS (Work Breakdown Structure)** - depicts the work that is necessary to meet project objectives. 
 It is the foundational planning tool for the project. Based on the scope and helps to define the scope.
@@ -169,8 +169,7 @@ https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson04/story_html5.html
 
 ### Quality
 
-**Prevention Over Inspection** -it is better to stop a defect from occurring. If you cannot do that, it is better to find the defect 
-before your customer does and of course if your customer finds a defect, your quality process might not 
+**Prevention Over Inspection** - it is better to stop a defect from occurring. If you cannot do that, it is better to find the defect before your customer does and of course if your customer finds a defect, your quality process might not 
 be working! 
 
 **Plan Quality Management** - the process of identifying quality requirements and/or standards and
@@ -213,10 +212,10 @@ face up to challenges, tackle problems, find solutions, plan work, and deliver r
   - **Forming** - is constituted of orientation, testing and dependence
   - **Storming** - characterized by conflict and polarization around interpersonal issues
   - **Norming** - in this stage in-group feeling and cohesiveness develop, new standards evolve, and new roles are 
-  adopted. In the task realm, intimate, personal opinions are expressed. 
+  adopted. In the task realm, intimate, personal opinions are expressed.
   - **Performing** - interpersonal structure becomes the tool of task activities. Roles become flexible and functional,
   and group energy is channeled into the task.
-  
+
 **Tools and Techniques to Manage Project Team**
   - **Observation and Conversation** - used to stay connected with the progress and attitudes of project team members
   (management-by-walking-around)
@@ -228,8 +227,7 @@ face up to challenges, tackle problems, find solutions, plan work, and deliver r
 Conflict resolution:
   - **Confronting** (problem solving or collaboration). Finds a solution that is best for the project, 
   but not necessarily best for one party or another.
-  - **Compromising** - take ideas from each party so that the solution is a little bit of each. 
-  May not necessarily result in the best approach.
+  - **Compromising** - take ideas from each party so that the solution is a little bit of each. May not necessarily result in the best approach.
   - **Smoothing** (accommodating) - you seek to remind the parties in conflict  of their similarities.
   - **Forcing** (competing) - you simply tell people how it will be.
   - **Avoiding** - good when you are outranked.
@@ -280,8 +278,7 @@ https://s3-us-west-2.amazonaws.com/unex-pm-mooc/lesson07/story_html5.html
 
 ### Risk
 
-**Project Risk Management** is a systematic practice that identifies, analyses, and responds to project risks. The
-primary goal of project risk management is to minimise the likelihood and impact of negative events (threats).
+**Project Risk Management** is a systematic practice that identifies, analyses, and responds to project risks. The primary goal of project risk management is to minimise the likelihood and impact of negative events (threats).
 
 Planning for risk begins with Murphy's Law - **if anything can go wrong, it will** - and continues with the Boy Scout 
 motto: **be prepared**.
